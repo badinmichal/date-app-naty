@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- stonka a listy -->
+  <path d="M32 40 Q34 52 31 63" fill="none" stroke="#5b9a42" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M32.5 51 Q42 43 51 47 Q43 56 32.5 51Z" fill="#6aa84f"/>
+  <path d="M32 47 Q22 39 13 43 Q21 52 32 47Z" fill="#5b9a42"/>
+  <!-- zadné lupene - nadýchaná guľatá hlava kvetu -->
+  <g fill="#f6a5c0" stroke="#e5779e" stroke-width="0.7">
+    <circle cx="14" cy="25" r="7.5"/>
+    <circle cx="50" cy="25" r="7.5"/>
+    <circle cx="20" cy="16" r="8"/>
+    <circle cx="44" cy="16" r="8"/>
+    <circle cx="32" cy="11" r="8.5"/>
+  </g>
+  <!-- zvlnený stred -->
+  <g fill="#ef7ea6" stroke="#d9638e" stroke-width="0.7">
+    <circle cx="25" cy="20" r="6.5"/>
+    <circle cx="39" cy="20" r="6.5"/>
+    <circle cx="32" cy="16" r="6.5"/>
+    <circle cx="32" cy="23" r="6"/>
+  </g>
+  <!-- predné lupene, ktoré tvoria misku -->
+  <g fill="#fac3d6" stroke="#e5779e" stroke-width="0.8">
+    <path d="M8 21 Q7 35 25 39 Q22 30 21 24 Q14 27 8 21Z"/>
+    <path d="M56 21 Q57 35 39 39 Q42 30 43 24 Q50 27 56 21Z"/>
+    <path d="M20 24 Q22 38 32 40.5 Q42 38 44 24 Q38 30 32 26 Q26 30 20 24Z"/>
+  </g>
+  <!-- zelené kališné lístky pod kvetom -->
+  <path d="M24 38 Q32 47 40 38 Q32 42 24 38Z" fill="#5b9a42"/>
+</svg>
